@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Hebrew] or, An appeal to the scriptures In a summary collection of scriptures, produced, and placed, in answer to twenty one questions, relating to this following enquiry. Viz. Whether the seventh, of last day of the week, in the weekly revolutions, and returns of it, formerly was, now is, and till heaven, and earth pass away, will be, the divine will, and pleasure of Jehovah Elohim, to be observed, and celebrated, as a weekly sabbath-day, according to the prescription of infinite wisdom; by vertue of his holy command, as the duty of all mankind, to their real and true benefit, and advantage, if observed, and to their deplorable misery if neglected. By J.W.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67293</idno><idno type="EEBO-CITATION">99830753</idno>
+  <idno type="VID">35207</idno>
+  <idno type="EEBO-PROQUEST">2240894363</idno>
+  
+            <idno type="STC">Wing W44</idno>
+            <idno type="STC">ESTC R219258</idno>
+            <idno type="PROQUEST">99830753</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830753e"/>
+            <note>(EEBO-TCP ; phase 2, no. A67293)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35207)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1877:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Hebrew] or, An appeal to the scriptures In a summary collection of scriptures, produced, and placed, in answer to twenty one questions, relating to this following enquiry. Viz. Whether the seventh, of last day of the week, in the weekly revolutions, and returns of it, formerly was, now is, and till heaven, and earth pass away, will be, the divine will, and pleasure of Jehovah Elohim, to be observed, and celebrated, as a weekly sabbath-day, according to the prescription of infinite wisdom; by vertue of his holy command, as the duty of all mankind, to their real and true benefit, and advantage, if observed, and to their deplorable misery if neglected. By J.W.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>[2], 41, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: text faded and title page cropped.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian literature --  Early works to 1800.</term>
+               <term type="topical_term">Theology --  Miscellanea --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35207:1"/>
+            <pb facs="tcp:35207:1"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> OR, An Appeal TO THE SCRIPTURES IN A Summary Collection of Scriptures, Produ<g ref="char:EOLhyphen"/>ced, and Placed, in Answer to twenty one Questions, Relating to this following Enquiry.</p>
+            <p>VIZ. Whether the Seventh, or last day of the week, in the weekly Revolutions, and Returns of it, for<g ref="char:EOLhyphen"/>merly was, now is, and till Heaven and Earth pass away, will be, the Divine Will, and Plea<g ref="char:EOLhyphen"/>sure of <hi>Jehovah Elohim,</hi> to be Observed, and Celebrated, as a weekly Sabbath-day, accord<g ref="char:EOLhyphen"/>ing to the Prescription of infinite Wisdom; by Vertue of his holy Command, as the Duty of all Mankind, to their real and true benefit, and advantage, if observed, and to their de<g ref="char:EOLhyphen"/>plorable misery if neglected.</p>
+            <q>
+               <bibl>Isa. <hi>66.2.</hi>
+               </bibl>
+               <p>For all those things hath mine hand made, and all tho<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e things that hath bin saith the <hi>LORD;</hi> but to thi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> man will I look, even to him that is poor and of a con<g ref="char:EOLhyphen"/>trite spi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it, and trembleth at my word.</p>
+            </q>
+            <p>
+               <hi>By</hi> J. W.</p>
+            <p>LONDON, Printed in the Year 1676.</p>
+            <pb facs="tcp:35207:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:35207:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:35207:3"/>
+            <pb n="1" facs="tcp:35207:3"/>
+            <div type="part">
+               <head>An Appeal to the Scriptures.</head>
+               <p>Quest. 1. <hi>Whether the ten words, commonly called the</hi> Moral Law, <hi>or</hi> D<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>calogue, <hi>formerly were, now are, and until Hea<g ref="char:EOLhyphen"/>ven and Earth do pass away, shall be, a Rule of Obedience, or not?</hi>
+               </p>
+               <p>
+                  <hi>Answ, Isa.</hi> 8.20. To the Law and to the Testimony, if they speak not according to this word, it is because there is no light in them.</p>
+               <p>
+                  <hi>M<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 5.17. Think not that I am come to de<g ref="char:EOLhyphen"/>stroy the Law; I am not come to destroy but to fulfil.</p>
+               <p>
+                  <hi>Ver.</hi> 18. For verily I say unto you, till Hea<g ref="char:EOLhyphen"/>ven and Earth pass, one jott or one tittle shall in no wise pass from the Law till all be fulfil<g ref="char:EOLhyphen"/>led.</p>
+               <p>
+                  <hi>Ver.</hi> 19. Whosoever therefore shall break one of these least Commandments, and shall teach men so he shall be called the least in the Kingdom of Heaven; but whosoever shall do and teach them the same shall be called great in he Kingdom of Heaven.</p>
+               <p>
+                  <hi>Luke</hi> 16.17. And it is easier for Heaven and Faith to pass, then one tittle of the Law to fail.</p>
+               <pb n="2" facs="tcp:35207:4"/>
+               <p>
+                  <hi>Jam.</hi> 2.8. If ye fulfil the Royal Law ac<g ref="char:EOLhyphen"/>cording to the Scripture—ye do well.</p>
+               <p>
+                  <hi>Ver.</hi> 10. VVhosoever shall keep the whole Law, and yet offend in one point, he is guilty of all.</p>
+               <p>
+                  <hi>Ver.</hi> 11. For he that said, do not commit A<g ref="char:EOLhyphen"/>dultery said also do not kill; Now if thou com<g ref="char:EOLhyphen"/>mit no adultery yet if thou kill thou art be<g ref="char:EOLhyphen"/>come a Transgressor of the Law.</p>
+               <p>
+                  <hi>Ver.</hi> 26. Faith without works is dead.</p>
+               <p>
+                  <hi>Rom.</hi> 3.31. Do we then make void the Law through faith? God forbid: yea, we establish the Law.</p>
+               <p>
+                  <hi>Rom.</hi> 7.7. Is the Law sin? God forbid nay, I had not known sin but by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Law: for I had not known l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st, except the Law had said thou shalt not covet.</p>
+               <p>
+                  <hi>Ver.</hi> 12. Wherefore the Law is holy and the Commandment holy, and just and good,</p>
+               <p>
+                  <hi>Ver.</hi> 14. The Law is spiritual.</p>
+               <p n="16">16. I consent unto the Law that it is good.</p>
+               <p n="22">22. For I delight in the Law of God, after the inward man.</p>
+               <p n="25">25. So then with my minde I my self serve the Law of God.</p>
+               <p>
+                  <hi>Pro.</hi> 28 4. They that forsake the Law praise the wicked: but such as keep the Law, contend with them.</p>
+               <p>
+                  <hi>Psal,</hi> 19.7. The Law of the Lord is per<g ref="char:EOLhyphen"/>fect.</p>
+               <pb n="3" facs="tcp:35207:4"/>
+               <p>
+                  <hi>Eccl.</hi> 12.13. Let us hear the Conclusion of the whole matter: Fear God and keep his Commandments, for this is the whole Duty of man.</p>
+               <p n="14">14. For God shall bring every work into Judgement, with every secret thing, whether it be good, or whether it be evil, <hi>Psal.</hi> 119. throughout, <hi>Jam.</hi> 1.25. 1 <hi>John</hi> 2 7. <hi>Jer.</hi> 7.28</p>
+               <p>
+                  <hi>A Relation of th<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> manner of its Promul<g ref="char:EOLhyphen"/>gation, and Preser<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tion for a demonstra<g ref="char:EOLhyphen"/>tion, of its trans<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>t Gloriousness; as</hi>
+               </p>
+               <p>And <hi>Elohim</hi> spake all these words, saying, <hi>Jeho<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> E<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi> Exod. 20.</p>
+               <p>And Jehovah said, — we have seen that I have<note n="a" place="margin">
+                     <hi>Heb.</hi> spoken.</note> talked with you from Heaven, <hi>ver.</hi> 22.</p>
+               <p>
+                  <hi>Jehovah</hi>
+                  <note n="b" place="margin">Spake ear<g ref="char:EOLhyphen"/>nest<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, be<g ref="char:EOLhyphen"/>ing <hi>P<gap reason="illegible: faint" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi>
+                  </note> talked with you face to face in the Mount, out of the midst of the fire of the cloud, of the thick darkn<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, with a great voice, and he added no more; and he wrote them in two Tables of Stone, and delivered them unto me. D<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. 5.4, 22.</p>
+               <p>Behold <hi>
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Elohim</hi> hath shewed us his glory, and his greatness, and we have heard his voice out of the midst of the fire; we have
+<pb n="4" facs="tcp:35207:5"/>seen this day that <hi>Elohim</hi> doth talk with man and he liveth, 24.</p>
+               <p>And he gave unto <hi>Moses</hi>—two Tables of Testimony, Tables of Stone written with the finger of <hi>Elohim,</hi> Exod. 31.18.</p>
+               <p>And <hi>Moses</hi> went down from the Mount, and the two Tables of Stone were in his hand; the Tables were written on both their sides, on the one side, and on the other were they writ<g ref="char:EOLhyphen"/>ten, <hi>Exod.</hi> 31 15.</p>
+               <p>And the Tables were the Work of <hi>Elohim,</hi> and the writing was the writing of <hi>Elohim,</hi> graven upon the Tables. <hi>v.</hi> 16.</p>
+               <p>And he saw the calf and the dancing, and he cast the Tables out of his hand, and brake them beneath the Mount. <hi>v.</hi> 19.</p>
+               <p>And <hi>Jehovah</hi> said unto <hi>Moses,</hi> Hew thee two Tables of stone, like unto the first and I will write upon these Tables the words that we<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in the first Tables, which thou brakest, <hi>Exod.</hi> 34.1, 2, 3 4, 5, 6, 7.</p>
+               <p>And he was there with <hi>Jehovah</hi> fourty day; and fourty nights, and he did neither eat bread, nor drink water and he wrote upon th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tables the words of the Covenant the ten Command<g ref="char:EOLhyphen"/>ments <hi>v.</hi> 28.</p>
+               <p>And <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> spake unto you o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of the midst of the fire<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ye h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the voice of the word, but saw no similitude. <hi>Deut</hi> 4.12.</p>
+               <pb n="5" facs="tcp:35207:5"/>
+               <p> And he declared unto you his Covenant which he commanded you to perform, even <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en Commandments, and he wrote them upon <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo Tables of ston<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>v.</hi> 13.</p>
+               <p>And <hi>Jehovah</hi> delivered unto me two Tables of stone, written with the Finger of <hi>Elohim,</hi> See <hi>Deut.</hi> 9.10. <hi>v.</hi> 11, 15, 17. <hi>Deut.</hi> 10.1, 2, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 4, 5.</p>
+               <p>
+                  <hi>The manner of its Preservation,</hi>
+               </p>
+               <p>They shall make an Ark of <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ittim</hi> wood, <hi>&amp;c. Exod.</hi> 25.10.</p>
+               <p>And thou shalt overlay it with pure gold, within, and without shalt thou overlay it: and make a Crown of gold round about, <hi>v.</hi> 11. see <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, 14 5.</p>
+               <p>And thou shalt put into the Ark the Testi<g ref="char:EOLhyphen"/>mony which I shall give thee, <hi>v.</hi> 16.</p>
+               <p>And thou shalt put the Mercy Seat upon the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk of the Testimony, in the most Holy Place, <hi>Exod.</hi> 26.34.</p>
+               <p>And he put the Testimony into the Ark,— <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d put the Mercy-Seat above upon the Ark, <hi>&amp;c. Exod.</hi> 40.20.</p>
+               <p>—And covered the Ark of the Testimony, as <hi>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>hovah</hi> commanded <hi>Moses. v.</hi> 21. see <hi>ch.</hi> 37. <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, 3, 4, 5.</p>
+               <p>Qu. 2. <hi>Whether the Law of the ten Words, wherof ont jott or one tittle shall not fail,
+<pb n="6" facs="tcp:35207:6"/>till Heaven and Earth pass away.</hi> Mat. 5 8 10 <hi>Luke</hi> 16.17 <hi>Jam</hi> 2.10, 11, <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the Observation of the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> week, as a weekly, <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> not?</hi>
+               </p>
+               <p>
+                  <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> the Sabbath-day to keep it ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> shalt thou labor, and do all <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> seventh day is the Sabbath of <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thou shalt not do any <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> nor thy daughter, thy man-<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>naid-servant nor thy <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that is within thy gat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> made Heaven and Earth <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that in them is, and rested the <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> blessed the Sabbath <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> it, <hi>Exod.</hi> 20.8, 9, 10, 11, <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in <hi>Deut.</hi> 5.12, 13, 14.</p>
+               <p>Qu. 3. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the seventh or last day of the <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> evolutions, of it, <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, and title of the weekly <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> given unto it by the H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> who calleth things by th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> throughout th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Holy <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and Now Te<g ref="char:EOLhyphen"/>staments <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ever the name or thing
+<pb n="7" facs="tcp:35207:6"/>of a weekly Sabbath-day, is treated of or mentioned either by Commanding of it, Promising to Observers. Theratning to Neglecters, or upon any other occasi<g ref="char:EOLhyphen"/>on whatsoever.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The Seventh day is the Sabbath of <hi>Je<g ref="char:EOLhyphen"/>hovah, Exod.</hi> 20.10.</p>
+               <p>The Seventh-day is the Sabbath of <hi>Jehovah Elohiicha. Deut.</hi> 5.14.</p>
+               <p>In the Seventh day is a Sabbath of Rest, holy to <hi>Jehovah.</hi> Exod. 31.15.</p>
+               <p>The Seventh-day which is the Sabbath, <hi>Exod.</hi> 16.26</p>
+               <p>
+                  <hi>Jehovah</hi> hath said, tomorrow is the Rest of the holy Sabbath, <hi>ver.</hi> 23.</p>
+               <p>Today is a Sabbath unto <hi>Jehovah, v.</hi> 25.</p>
+               <p>The seventh day is a Sabbath of Rest, an ho<g ref="char:EOLhyphen"/>ly Convocation, it is the Sabbath of <hi>Jehovah</hi> in all your dwellings, <hi>Lev.</hi> 23.3.</p>
+               <p>In the Seventh-day is an holy Convocati<g ref="char:EOLhyphen"/>on <hi>ver.</hi> 8.</p>
+               <p>And <hi>Elohim</hi> blessed the Seventh-day and sanctified it, &amp;c. <hi>Gen.</hi> 2.2.3. <hi>Exod.</hi> 20 11. <hi>Exod.</hi> 31.14, 16, 17.</p>
+               <p>
+                  <hi>Chap.</hi> 34.21. <hi>chap.</hi> 35.22. <hi>Lev.</hi> 24.58. <hi>chap.</hi> 28.9. 2 <hi>King.</hi> 16.18. 2 <hi>Chron</hi> 36.21.</p>
+               <p>
+                  <hi>Deut.</hi> 5.16. <hi>Nehem.</hi> 9.14. <hi>chap.</hi> 10.31. <hi>chap.</hi>
+                  <pb n="8" facs="tcp:35207:7"/>13.15, 16, 17, 18, 19, 20, 21, 22. <hi>Isa.</hi> 56.2, 4, 5, 6, 7, 8. <hi>chap.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8.13, 14. <hi>chap.</hi> 66.23. <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 17.21, 22, 23, 24, 25, 26, 27. <hi>Ezek</hi> 46.1, 2, 4, 5. <hi>Am<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 8.4, 5, 11. <hi>D<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> 5.13, 14, 15. <hi>Numb.</hi> 15.32.</p>
+               <p>
+                  <hi>Matth.</hi> 12.1, 2, 3 4 5, 6, 7, 8, 9, 10, 11, 12. <hi>Mark</hi> 2.23, 24, 25, 26, 27, 28. <hi>Luke</hi> 6.1 2. 3 4, 5, 6, 9. <hi>Luk</hi> 4, 16. 10. 13, 14, 15 16. <hi>chap.</hi> 23 54, 55, 56, <hi>chap.</hi> 14 1, 2 3, 5 <hi>John</hi> 59 10 11, 1 <hi>chap.</hi> 7. 22, 23. <hi>chap.</hi> 9.14. 16. <hi>chap.</hi> 19.31. <hi>Acts</hi> 13.14, 15, 42, 27. <hi>chap.</hi> 15 21. <hi>chap.</hi> 18.14. <hi>chap</hi> 16.13.</p>
+               <p>Quest. 4. <hi>Whether the seventh or last day of the week be required, and command ed, by</hi> Jehovah Elohim, <hi>to be observed celebrated, and kept holy, as weekly Sabbath-day, in the Hebdomadal or weekly Revolutions and Returns of it?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> See the Answer to the second Que<g ref="char:EOLhyphen"/>stion, for <hi>Exod.</hi> 28 9, 10, 11.</p>
+               <p>Keep the Sabbath day to sanctifie it, as <hi>Je<g ref="char:EOLhyphen"/>hovah Elohiicha</hi> commanded thee, <hi>Deut.</hi> 5.12, 13, 14.</p>
+               <p>The Seventh-day is the Sabbath of <hi>Jehovah Elohiicha,</hi> in it thou shalt not do any work, <hi>ver.</hi> 14.</p>
+               <p>Ye shall keep the Sabbath therefore, for it
+<pb n="9" facs="tcp:35207:7"/>is holy unto, you, <hi>Exod.</hi> 31.14.</p>
+               <p>Wherefore the children of <hi>Israel</hi> shall keep the Sabbath, to observe the Sabbath throughout their Generations for a perpetual Covenant, it is a Sign b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tween me and the children of <hi>Israel</hi> for ever, for in six days Je<g ref="char:EOLhyphen"/>hovah made Heaven and Earth and on the se<g ref="char:EOLhyphen"/>venth day he rested and was refreshed. <hi>Exod.</hi> 31.16, 17.</p>
+               <p>On the seventh day in Earing time and in Harvest thou shalt rest. <hi>Exod.</hi> 34 21.</p>
+               <p>And it came to pass, that there went ou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> some of the people on the seventh day for to gather, and they found none; And <hi>Jehovah</hi> said, How long do ye refuse to keep my Com<g ref="char:EOLhyphen"/>mandments, and my Laws?</p>
+               <p>See for that <hi>Jehovah</hi> bath given the Sabbath, therefore he giveth you on the sixth day the bread of two days, abide ye every man in his place let no man go out of his place on the seventh day, <hi>Exod.</hi> 16, 27, 28, 29.</p>
+               <p>And <hi>Moses</hi> said, these are the words that <hi>Jehovah</hi> hath commanded that ye should do them.</p>
+               <p>On the seventh day there shall be to you an holy day, a Sabbath of Rest to <hi>Jehovah, Exod.</hi> 35.1, 2.</p>
+               <p>The seventh day is a Sabbath of Rest ye
+<pb n="10" facs="tcp:35207:8"/>shall do no work therein, <hi>Levlt.</hi> 23.3.</p>
+               <p>
+                  <hi>Jehovah Elohiicha</hi> commanded thee to keep the Sabbath day, <hi>Deut.</hi> 5 15.</p>
+               <p>Ye shall keep the Sabbath therefore, for it is holy unto you: every one that <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>efileth it shall surely be put to death, <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 31.14.</p>
+               <p>On the seventh day thou shalt rest, <hi>Exod.</hi> 23.12.</p>
+               <p>Thus saith <hi>Jehovah,</hi> Hallow the Sabbath-day, <hi>Jer.</hi> 7.21, 22.</p>
+               <p>And the Women which came with him from <hi>Galilee, &amp;c.</hi>
+               </p>
+               <p>Rested the Sabbath-day according to the Commandment, <hi>Lake</hi> 23.55, 56.</p>
+               <p>Quest. 5. <hi>Whether the Reasons produced for the Observation of the seventh or last day of the we<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> front the Creation of the world, as a weekly Sabbath day, do as firmly and naturally oblige and require the observation of it from all Gentit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Believers, as from the</hi> Israelitish <hi>Nation.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> And on the seventh-day <hi>Elohim</hi> had ended his work which he had made, and he rested on the seventh-day from all his work which he had made.</p>
+               <pb n="11" facs="tcp:35207:8"/>
+               <p> And <hi>Elohim</hi> blessed the seventh day and san<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>fied it because that in it he had rested from <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his work, which <hi>Elohim</hi> created and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> de, <hi>Gen.</hi> 2.2, 3.</p>
+               <p>For in six days <hi>Jehovah</hi> made Heaven and <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rth, the Sea and all that in them is, and rest <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the seventh-day, wherefore Jehovah bles<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d the Sabbath-day and hallowed it, <hi>Exod.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 11.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> is a sign between me and the children of <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> for ever; for in six days <hi>Jehovah</hi> made <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>aven and Earth, and on the seventh day he <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>sted, and was refreshed <hi>Exod</hi> 31.17.</p>
+               <p>For he spake in a certain place of the seventh <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in this wise and God did rest the seventh <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from all his works. <hi>Heb.</hi> 4.4.</p>
+               <p>Quest. 6. <hi>Whether the seventh or last day of the week; were given and appointed, blessed and sanctified, to be a weekly Sabbath-day, from the Creation; (re<g ref="char:EOLhyphen"/>quired and commanded by</hi> Jehovah E<g ref="char:EOLhyphen"/>lohim, <hi>on</hi> Mount S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nai<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>andibly spoken, by his Finger engraven, and for the be<g ref="char:EOLhyphen"/>nefit of <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in an Ark of</hi> Shir<g ref="char:EOLhyphen"/>tim <hi>word preserv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) Whether this be
+<pb n="12" facs="tcp:35207:9"/>for all people universally extended, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for the Israelites only? is Enquired?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Remember the Sabbath-day to keep it holy, the seventh day is the Sabbath, in it thou shalt not do an work, not thy son, nor thy daughtet thy man-servant nor thy maid<g ref="char:EOLhyphen"/>servant, nor thy cattel, nor thy stranger that is within thy gates, <hi>Exod.</hi> 28 10.</p>
+               <p>In it thou shalt not do any work, thou nor thy on, nor thy daughter, not thy man-ser<g ref="char:EOLhyphen"/>vant, nor thy maid-servant, nor thine Oxe, not thin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nor any of thy Cattel, nor thy stranger that is within thy gates, that thy man servant and thy maid servant may rest 2; well a tho, <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 5.14.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that doth this, and the son of <hi>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am</hi> that laveth hold on it; that keepeth th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sabbath <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 56.2.</p>
+               <p>Neither let the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on of the stranger, that hath joyned himself to <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> speak, saying, <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> hath utterly separated me from his people, <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> 3.</p>
+               <p>Also the sons of the stranger that joyn them<g ref="char:EOLhyphen"/>selves to <hi>Jehovah,</hi> to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e his servants, EVERY ONE that keepeth the Sabbath from pollu<g ref="char:EOLhyphen"/>ting it, <hi>ver.</hi> 6.</p>
+               <p>Even them will I bring to my holy moun<g ref="char:EOLhyphen"/>tain
+<pb n="13" facs="tcp:35207:9"/>and make them joyful in my House of Prayer—for min<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> House shall be called an Horse of Prayer for all people, <hi>ver.</hi> 7.</p>
+               <p>And it shall come to pass, that from one Sabbath to another shall all flesh come to worship before me, saith <hi>Jehovah,</hi> Isa. 66.23.</p>
+               <p>The Sabbath was made for man, <hi>Mark</hi> 2.27, <hi>Gen.</hi> 2.1, 2, 3. <hi>Exod.</hi> 16.</p>
+               <p>Quest. 7. <hi>What are the Encouraging Pro<g ref="char:EOLhyphen"/>mises, and inducing Rewards which the seventh any Sabbath observers may lay claim to; and act saith in, as a token from the Lord of his Divine Plea<g ref="char:EOLhyphen"/>sure and Complacency in the due Ob<g ref="char:EOLhyphen"/>servationana Celebration of the seventh-day Sabbath; to their benefit and de<g ref="char:EOLhyphen"/>light?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Blessed is the man that doth this, and the son of man that layeth hold on it, that keepeth the Sabbath from polluting it, and keepeth his hands from doing any evil, <hi>Isa.</hi> 50.<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> away thy foot from the Sab<g ref="char:EOLhyphen"/>bath, from doing thy pleasure on my holy
+<pb n="14" facs="tcp:35207:10"/>day, and call the Sabbath a delight the holy, fo <hi>Jehovah,</hi> honourable and shall honour him, not doing thin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> own ways, nor finding thine own pleasure. nor speaking thine own word <hi>Isa.</hi> 58.13.</p>
+               <p>Then shalt thou delight thy self in <hi>Jehovah,</hi> and I will cause th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ide upon the high places of the Earth and <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> with the he<g ref="char:EOLhyphen"/>ritage of <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for the Mouth of <hi>Jehovah</hi> hath <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 14</p>
+               <p>For thus saith <hi>Jehovah</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto the Enn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chs that keep my Sabbaths <hi>Isa</hi> 50 4.</p>
+               <p>Even unto th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m will I <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> house, and within my <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, a <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> then of sons and of daughters: I will give them an everlasting name that shall not be out off <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> 6.</p>
+               <p>Also the sons of the <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that joyn themselve to <hi>Jehovah</hi> to serve him, Every one that keepeth the Sabbath-day from Pollu<g ref="char:EOLhyphen"/>ting it <hi>v.</hi> 0.</p>
+               <p>Even them will I bring to my holy Moun<g ref="char:EOLhyphen"/>tain, and make them joyful in my house of Prayer; their burnt offerings and their sa<g ref="char:EOLhyphen"/>crifices shall be accepted upon mine Alta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <hi>ver.</hi> 7.</p>
+               <p>See for that <hi>Jehovah</hi> hath given you the Sabbath, therefore he giveth you on the
+<pb n="15" facs="tcp:35207:10"/>sixth day the bread of two dayes, <hi>Exod.</hi> 16.29.</p>
+               <p>And it came to pass, that on the sixth day they gathered twice as much bread, <hi>ver.</hi> 22.</p>
+               <p>And they laid it up till the Morning, as <hi>Mo<g ref="char:EOLhyphen"/>ses</hi> bade: and it did not stink, neither was there any worm therein, <hi>ver.</hi> 24.</p>
+               <p>And God blessed the seventh-day and san<g ref="char:EOLhyphen"/>stified it, <hi>Gen.</hi> 2.3. <hi>Exod</hi> 20.11.</p>
+               <p>It is a sign between me and you, —that ye may know that I am <hi>Jehovah</hi> that doth san<g ref="char:EOLhyphen"/>ctifie you, <hi>Exod.</hi> 31.13.</p>
+               <p>And it shall come to pass, if ye diligently hearken unto me, saith <hi>Jehovah,</hi> to bring in no burden through the Gates of this City on the Sabbath-day, but hallow the Sabbath-day to do no work therein.</p>
+               <p>The shall there enter into the gates of this City, Kings, and Princes, sitting upon the Throne of <hi>David,</hi> riding in Chariots and on Horses, they and their Princes, the men of <hi>Ju<g ref="char:EOLhyphen"/>dah</hi> and the Inhabitants of <hi>Jerusalem,</hi> and this City shall remain for ever.</p>
+               <p>And they shall come from the Cities of <hi>Ju<g ref="char:EOLhyphen"/>dah,</hi> and from the places about <hi>Jerusalem,</hi> and from the Land of <hi>Benjamin,</hi> and from the Plain and from the Mountains, and from the South, bringing burnt-offerings and sacrifi<g ref="char:EOLhyphen"/>ces,
+<pb n="16" facs="tcp:35207:11"/>and Meat-offerings, and Incense, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bringing Sacrifices of Praise unto the Hou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Jehovah,</hi> Jer. 17.24 25, 26.</p>
+               <p>The Sabbath was made for man, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> man for the Sabbath, <hi>Mark</hi> 2.27.</p>
+               <p>Quest. 8. <hi>What threatnings of condign Pu<g ref="char:EOLhyphen"/>nishment hath the Lord, for the terro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and destruction of the obstinate, and re<g ref="char:EOLhyphen"/>bellious, denounced against, and com<g ref="char:EOLhyphen"/>manded to be inflicted on, and execute up on, the wilfully disobedient, and re<g ref="char:EOLhyphen"/>fractory Profaners; and Polluters o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the seventh or last day of the week, in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> weekly Revolutions and Returns of it, a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a Proclamation of his Divine wrath an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Displeasure therewith?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The seventh-day is the Sabbath,— whosoever doth any work in the Sabbath day, he shall surely be put to death, <hi>Exod</hi> 31.15.</p>
+               <p>On the seventh day shall be a Sabbath, who soever doth work therein shall be put t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> death, <hi>Exod.</hi> 35.2.</p>
+               <p>Ye shall keep the Sabbath therefore, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o
+<pb n="17" facs="tcp:35207:11"/>it is holy unto you; Everyone that defileth it shall surely be put to death: for whosoever doth any work therein that soul shall be cut off from amongst his people, <hi>Exod.</hi> 31.14.</p>
+               <p>And them that escaped from the sword car<g ref="char:EOLhyphen"/>ried he away to <hi>Babylon,</hi> until the Land had enjoyed her Sabbaths; for as long as she lay desolate, she kept Sabbath, to fulfil threescore and ten years, 2 <hi>Chron.</hi> 36.20, 21.</p>
+               <p>Did not your Fathers thus, and did not our God bring all this evil upon us, and upon This City? yet ye bring more wrath upon <hi>Is<g ref="char:EOLhyphen"/>rael,</hi> by profaning the Sabbath <hi>Nehem.</hi> 13.18.</p>
+               <p>But if ye will not hearken unto me, to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Sabbath-day and not to bear a bur<g ref="char:EOLhyphen"/>den, —then will I kindle a fire in the Gates thereof, and it shall devour the Palaces of <hi>Je<g ref="char:EOLhyphen"/>rusalem,</hi> and it shall not be quenched. <hi>Jer.</hi> 17.27.</p>
+               <p>Hear this ye that swallow up the needy, saying when will the New Moon be gone, <hi>&amp;c.</hi> And the Sabbath, that we may set forth wheat, <hi>Amos</hi> 8.4, 5.</p>
+               <p>Behold the days come saith the Lord <hi>Je<g ref="char:EOLhyphen"/>hovah,</hi> that I will send a famine in the Land, not a famine of bread, nor a thirst for water, but of hearing the words of <hi>Jehovah, ver.</hi> 11.
+<pb n="18" facs="tcp:35207:12"/>And they shall wander from sea to sea, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from the North even to the East they <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> run to and fro to seek the Word of <hi>Jehovah</hi> and shall not finde it, <hi>ver.</hi> 12, 13.</p>
+               <p>And they found a man that gathered stick<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> upon the Sabbath-day &amp;c. <hi>Numb.</hi> 15.32, 33, 34.</p>
+               <p>And <hi>Jehovah</hi> said unto <hi>Moses,</hi> the man shall be surely put to death: all the congregation shall stone him with stones without the camp. <hi>ver.</hi> 35.</p>
+               <p>Quest. 9. <hi>Whether the Practice of the Lords Magistrates and people, as an e<g ref="char:EOLhyphen"/>vidence of the contrariety of their Na<g ref="char:EOLhyphen"/>tures to the workers of iniquity; in an endeavour after the utter abolition, and extirpation of Malefactors, hath been exerted and put forth in a zealous per<g ref="char:EOLhyphen"/>formance, and execution of the penal Law of God, upon profaners of the se<g ref="char:EOLhyphen"/>venth, or last day of the week as a weekly Sabbath-day?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> And while the children of <hi>Israel</hi> were in the wilderness, they found a man that
+<pb n="19" facs="tcp:35207:12"/>gathered sticks upon the Sabbath-day.</p>
+               <p>And they that found him gathering sticks brought him unto <hi>Moses</hi> and <hi>Aaron,</hi> and unto all th<gap reason="illegible: missing" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> congregation.</p>
+               <p>And they put him in ward, because it was not declared what should be done unto him, And <hi>Jehovah</hi> said unto <hi>Moses,</hi> the man shall be surely put to death: all the congregation shall stone him with stones without the camp.</p>
+               <p>And all the congregation brought him without the camp, and stoned him with stones, and he died as <hi>Jehovah</hi> commanded <hi>Moses, Numb.</hi> 15.32 33, 35, 36.</p>
+               <p>
+                  <hi>Secondly, the Magistrates Practice.</hi>
+               </p>
+               <p>And if the people of the Land bring ware, or any Victuals on the Sabbath-day to sell, that we would not buy it of them on the Sab<g ref="char:EOLhyphen"/>bath, <hi>Nehem.</hi> 10.31.</p>
+               <p>In those days saw I in <hi>Judah</hi> some treading Wine-Presses on the Sabbath, and bringing in Sheaves, and leading Asses, as also Wine, Grapes, and Figs, and all manner of burthen, which they brought into <hi>Jerusalem</hi> on the Sabbath-day; And I testified against them in the day wherein they sold Victuals, <hi>Jer.</hi> 13.15.</p>
+               <p>There dwelt men of <hi>T<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> also-which
+<pb n="20" facs="tcp:35207:13"/>brought Fish, and all manner of Ware, and sold on the Sabbath unto the children of <hi>Ju<g ref="char:EOLhyphen"/>dah.</hi> and in <hi>Jerusalem, ver.</hi> 16.</p>
+               <p>Then I contended with the Nobles of <hi>Ju<g ref="char:EOLhyphen"/>dah,</hi> and said unto them, that evil thing is this, that ye do and profane the Sabbath-day? <hi>ver.</hi> 17.</p>
+               <p>Did not your Fathers thus, and did not our God bring all this evil upon us. and upon this City? yet ye bring more wrath upon <hi>Israel,</hi> by profaning the Sabbath, <hi>ver.</hi> 18. see <hi>v.</hi> 19.</p>
+               <p>So the Merchants, and Sellers of all kind of ware, lodged without <hi>Jerusalem</hi> once or twice, <hi>ver.</hi> 20.</p>
+               <p>Then I testified against them, and said unto them, Why lodge ye about the wall? if you do so again, I will lay hands on you; from that time forth came they no more on the Sab<g ref="char:EOLhyphen"/>bath, <hi>ver.</hi> 21, 22.</p>
+               <p>Qu. 10. <hi>Hath the seventh or last day of the week, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>een observed as a weekly Sab<g ref="char:EOLhyphen"/>bath day, in the weekly Revolutions, and Returns of it, by the Lords People, under the Old Testament-Administra<g ref="char:EOLhyphen"/>tion of Grace; by Christ himself, whose stop we are to follow, by his Disciples,
+<pb n="21" facs="tcp:35207:13"/>before his Ascension, and by his Apostle and Gentile-Believers after his Ascen<g ref="char:EOLhyphen"/>sion, under the New-Testament-dispen<g ref="char:EOLhyphen"/>sation of Grace, or not?</hi>
+               </p>
+               <p>So the people rested on the seventh-day, <hi>&amp;c. Exod.</hi> 16.30.</p>
+               <p>
+                  <hi>Moses</hi> of old time hath in every City them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at preach him, being read in the Synagogue, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery Sabbath-day, <hi>Acts</hi> 15.21.</p>
+               <p>And he (<hi>viz.</hi> Jesus) came to <hi>Nazareth,</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e had bin brought up, and as his cu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om was, he went into the Synagogue on the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bbath-day, and stood up for to read, <hi>Luke</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.10.</p>
+               <p>And he was teaching in one of the Syna<g ref="char:EOLhyphen"/>gogues on the Sabbath, <hi>Luke</hi> 13.10.</p>
+               <p>And the Women-which came with him from <hi>Galilee, &amp;c.</hi>
+               </p>
+               <p>Returned, and prepared spices, and oint<g ref="char:EOLhyphen"/>ments, and rested the Sabbath-day according to the Commandment, <hi>Luke</hi> 23.55, 56.</p>
+               <p>But when they departed from <hi>Per<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> they <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame to <hi>Anti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch</hi> in <hi>Pisi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and went into the Synagogue on the Sabbath-day, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> down.</p>
+               <p>And after the reading of the Law and the Prophers, <hi>&amp;c.</hi>
+               </p>
+               <pb n="22" facs="tcp:35207:14"/>
+               <p> Then <hi>Paul</hi> stood up and said, ye that sea God give audience, <hi>Acts</hi> 13.14, 15, 16.</p>
+               <p>And when the Jews were gone out of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Synagogue the Gentiles besought that these words might be preached to them the nex<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sabbath <hi>ver.</hi> 42.</p>
+               <p>The Proph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t are read every Sabbath day, <hi>ver.</hi> 27.</p>
+               <p>And on the Sabbath we went out of the ci<g ref="char:EOLhyphen"/>ty by the River <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, where Prayer was wont to be made, and we spake to the Women which resorted thither. <hi>Acts</hi> 16.13.</p>
+               <p>And he reasoned in the Synagogue ery Sabbath, and perswaded the Jews and th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Greeks, <hi>Acts</hi> 18 4.</p>
+               <p>Quest. 11. <hi>Whether the Lord hath bin plea<g ref="char:EOLhyphen"/>sed to invest and aedora the seventh or last day of the week, as a weekly Sab<g ref="char:EOLhyphen"/>bath-day, with any relative, concreated blessing: or Holiness, as also with any Titles of honour and preeminency.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> And <hi>Elohim</hi> blessed the seventh day and sanctifi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d it, because that in it he had rest<g ref="char:EOLhyphen"/>ed from all his work, which <hi>Elohim</hi> created and made. <hi>Gen.</hi> 2.3.</p>
+               <pb n="23" facs="tcp:35207:14"/>
+               <p> And rested the seventh day, wherefore Je<g ref="char:EOLhyphen"/>hovah blessed the Sabbath-day and hallowed it, <hi>Exod.</hi> 20.11.</p>
+               <p>Tomorrow is the Rest of the Holy Sabbath, <hi>Exod.</hi> 16.23.</p>
+               <p>It is holy unto <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, <hi>Exod.</hi> 31.14.</p>
+               <p>The seventh-day is holyness to Jehovah <hi>ver.</hi> 15.</p>
+               <p>The seventh day is—an holy Convocation, <hi>Lev.</hi> 23.3.</p>
+               <p>An holy Convocation, <hi>ver.</hi> 8.</p>
+               <p>Thy holy Sabbath, <hi>Nehem.</hi> 9.14.</p>
+               <p>The Sabbath—my holy day, the holy of Jehovah <hi>Isa.</hi> 58.3.</p>
+               <p>The seventh day shall be Holiness, <hi>Exod.</hi> 35.2</p>
+               <p>A Sabbath of Rest to Jehovah, <hi>Exod.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5.2.</p>
+               <p>The seventh day is the Sabbath of Jehovah <hi>Elohiicha, Exod.</hi> 20.10.</p>
+               <p>If thou turn away thy foot from the Sab<g ref="char:EOLhyphen"/>bath from doing thy pleasure on my holy day, and call the Sabbath a delight the holy of Jehovah, honourable, and shalt honour him, not doing thine own ways, nor finding thine own pleasure, not speaking thine own words, <hi>Isa.</hi> 58.13.</p>
+               <p>The Son of Man is Lord of the Sabbath, <hi>Mat.</hi> 12.8. <hi>Mark</hi> 2.28 <hi>Luk.</hi> 6 5.</p>
+               <pb n="24" facs="tcp:35207:15"/>
+               <p> Quest. 12. <hi>What works of Wonder, <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> miraculous Transactions hath the Lor<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Jesus wrought and performed upon <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> seventh or Sabbath-day, as a declarat<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>on of his divine estimation of that <gap reason="illegible: faint" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> beyond others.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Jesus went on the Sabbath-da<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> through the corn &amp;c. <hi>Mat.</hi> 12.1.</p>
+               <p>There was a man which had his hand w<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>thered, <hi>Luke</hi> 6.6 <hi>Mat.</hi> 12.10.</p>
+               <p>Then said he to the man, stretch forth thi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hand and he stretched it forth, and it was re<g ref="char:EOLhyphen"/>stored whole like as the other, <hi>Mat.</hi> 12.1 <hi>Luke</hi> 6.8.</p>
+               <p>And he was teaching in one of the Syna<g ref="char:EOLhyphen"/>gogues on the Sabbath.</p>
+               <p>And behold, there was a woman which ha<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a spirit of infirmity eighteen years, and was bowed down together, and cloud in no wise lift up her self.</p>
+               <p>And when Jesus saw her, he called her to him, and said unto her, Woman thou art loos<g ref="char:EOLhyphen"/>ed from thine infirmity.</p>
+               <p>And he laid his hands on her, and immedi<g ref="char:EOLhyphen"/>ately
+<pb n="25" facs="tcp:35207:15"/>she was made straight and glorified <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <hi>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke</hi> 13.10 11, 12.13.</p>
+               <p>And on the Sabbath-day.</p>
+               <p>There was a man before him which had the <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>And he took him and healed him, and let <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, <hi>Luk<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 14.1.2, 4.</p>
+               <p>And a certain man had an infirmity thirty and eight years, <hi>John</hi> 5 5.</p>
+               <p>Jesus saith unto him, Rise, take up thy bed and walk, <hi>ver.</hi> 8.</p>
+               <p>And immediately the man was made whole, and took up his bed and walked; and on the same day was the Sabbath, <hi>ver</hi> 9.</p>
+               <p>I have made a man every whit whole on the Sabbath-day, <hi>John</hi> 7.23.</p>
+               <p>And as Jesus passed by, he saw a man blind from his birth, <hi>John</hi> 9.</p>
+               <p>—He spat on the ground, and made clay of the spittle, and anointed the eyes of the blind man with the clay, <hi>ver.</hi> 6.</p>
+               <p>And Jesus said unto him, Go wash in the Pool of <hi>S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>loam,</hi> (—) he went his way there<g ref="char:EOLhyphen"/>fore, and came seeing, <hi>ver.</hi> 7.</p>
+               <p>And it was the Sabbath day. when Jesus made the clay and opened his eyes. <hi>v.</hi> 14.</p>
+               <p>There are some Scripture-instances of
+<pb n="92" facs="tcp:35207:16"/>the grew benefit some people have h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in obse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ving the seventh-day Sabbat<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in soul and body, by Christs Preaching and Healing upon this day.</p>
+               <p>Quest. 13. <hi>Whether the Spirit of Prophes<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hath foretold by way of Approbation, o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> such an influencing Operation, to be in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> snsed into many people, as would indu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> them to observe the seventh or last da<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of the week as a weekly Sabbath-day <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in the last days, and times; when people shall enjoy more open Vision and perspi<g ref="char:EOLhyphen"/>cuous under standing of all Gods Com<g ref="char:EOLhyphen"/>ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dments, as a Vindication of the per<g ref="char:EOLhyphen"/>manency, perpetuity and durableness of the seventh or last day of the week, as a weekly Sabbath day.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> And it shall come to pass, that <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> one Sabbath to another shall all flesh come to worship before me saith Jehovah. <hi>Is.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, 23. that this is in the last days, comp. <hi>v.</hi> 22. and 24</p>
+               <p>Isa. 56.2, 5, 6, 7. comp. with <hi>v.</hi> 1.7, 8. and with <hi>cha.</hi> 55. <hi>v,</hi> 11, 12, 13, 14, 15. 16, 17. chiefly <hi>v.</hi> 12, 13.</p>
+               <pb n="27" facs="tcp:35207:16"/>
+               <p> Quest. 14. <hi>Whether the S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bbath-day, in the Hebdomadal or weekly Revolutions of it, doth receive its beginning from the Evening, commonly (though <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, called</hi> Friday <hi>night; and <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> and end at the close of the day ligh of the seventh or last day, as commonly, (though as idola<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rously) cal<g ref="char:EOLhyphen"/>le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Saturday-<hi>night?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> From Even unto Even shall you ce<g ref="char:EOLhyphen"/>lebrate your <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. 23.32.</p>
+               <p>And it cam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to pass, that wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Gates of <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to be dark, before the Sab<g ref="char:EOLhyphen"/>bath <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that the Gates should be <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> them that they should not <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> after the Sabbath <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</p>
+               <p>And Evening was, and the Morning <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> first day. <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </p>
+               <p>And the Evening was, and the Morning was the second day, <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 6.</p>
+               <p>And the Evening was, and the Morning was the third day, <hi>v.</hi> 3.</p>
+               <p>And the Evening was and the Morning was the fourth day, <hi>v.</hi> 15.</p>
+               <pb n="28" facs="tcp:35207:17"/>
+               <p> And the Evening was, and Morning was the fifth day, <hi>ver.</hi> 23.</p>
+               <p>And the Evening was and Morning was the sixth day, <hi>v.</hi> 3<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>And on the seventh day <hi>Elohim</hi> had ended his work which he had made, and he rested on the seventh-day from all his work which he had made, <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 2.</p>
+               <p>And <hi>Elohim</hi> blessed the seventh day and sanctified it, because that in it he had rested from all his work. <hi>&amp;c. G<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 2, 3.</p>
+               <p>And that day was the preparation, and the Sabbath drew on, <hi>Luk<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 2<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+               <p>The Jews therefore, because it was the pre<g ref="char:EOLhyphen"/>paration, that the bodies should not remain upon on the Cross on the Sabbath day, (—) be<g ref="char:EOLhyphen"/>sought <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> that their legs might be broken, and that they might be taken away, <hi>John</hi> 19.3. <hi>Mat.</hi> 27.62. <hi>Mark</hi> 15.12. <hi>Mar.</hi> 1.21, comp. <hi>v.</hi> 32, 33.</p>
+               <p>Quest. 15. <hi>What encouragement doth the Scriptures afford to such who by Poverty and Penury are <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>able, in all visible probability, to discharge their own debts, and get sustenance for their necessities; what Promises have they to act faith on, relie and depend upon for temporal sub<g ref="char:EOLhyphen"/>sistence.</hi>
+               </p>
+               <pb n="29" facs="tcp:35207:17"/>
+               <p>
+                  <hi>Answ.</hi> See for that Jehovah hath given you the Sabbath, therefore he giveth you on the sixth day. the bread of two days, abide ye every man in his place, let no man go out of his place on the seventh day, <hi>Exod.</hi> 16.29.</p>
+               <p>On the seventh day there shall be none, <hi>ver.</hi> 20.</p>
+               <p>And it came to pass that on the sixth day they gather<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d twice as much bread two O<g ref="char:EOLhyphen"/>mers for one man, and all the Rulers of the Congregation came and told <hi>Moses, v.</hi> 22.</p>
+               <p>And they laid it up till morning, as <hi>Moses</hi> bade; and it did not stink, neither was there any worm therein, <hi>v.</hi> 24.</p>
+               <p>If thou call the Sabbath a delight, honour<g ref="char:EOLhyphen"/>able, &amp;c. not doing thine own ways, &amp;c.</p>
+               <p>Then—I will cause thee to ride upon the high places of the earth, and feed thee with the heritage of <hi>Jacob</hi> thy father, for the mouth of Jehovah hath spoken it, <hi>Isa.</hi> 58.13, 14.</p>
+               <p>Quest. 16. <hi>Whether any other day of the week whatsoever, be it first, second, third, fourth, fifth or sixth, besides the seventh or last day, can by any means be a weekly Sabbath-day.</hi>
+               </p>
+               <pb n="30" facs="tcp:35207:18"/>
+               <p>
+                  <hi>Answ.</hi> Six days shalt thou labour and do all thy work <hi>Exod.</hi> 20.9.</p>
+               <p>But the seventh day is the Sabbath of Je<g ref="char:EOLhyphen"/>hovah <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>,</hi> in it thou shalt not do any work. <hi>v.</hi> 10</p>
+               <p>Six day shall ye gather it but on the se<g ref="char:EOLhyphen"/>venth day which is the Sabbath, in it there shall be none, <hi>Exod.</hi> 16.26.</p>
+               <p>Six days may work be done, but in the se<g ref="char:EOLhyphen"/>venth is the Sabbath of Rest; —Whosoever doth any work on the Sabbath-day, he shall surely be put to death, <hi>Exod.</hi> 31.15.</p>
+               <p>Ye shall <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Sabbath therefore; every one that defil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t shall surely be put to death, for whosoever d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th any work therein, that soul shall be cut off from amongst his people <hi>ver.</hi> 14.</p>
+               <p>Six days thou shalt do thy work, and on the seventh day thou shalt rest, <hi>Exod.</hi> 23 12.</p>
+               <p>Six days shall work be done, but on the se<g ref="char:EOLhyphen"/>venth day there shall b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a Sabbath of Rest to Jeho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ah, whosoever doth work therein shall be put to death <hi>Exod.</hi> 35 2.</p>
+               <p>Six days shall work be done. but the se<g ref="char:EOLhyphen"/>venth day is the Sabbath y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> shall do no work therein <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is the Sabbath of Jehovah in all your dwellings. <hi>Lev.</hi> 23.3.</p>
+               <p>Six days thou shalt labour and do all thy work.</p>
+               <pb n="31" facs="tcp:35207:18"/>
+               <p> But the Seventh day is the Sabbath of <hi>Jeho<g ref="char:EOLhyphen"/>vah Elohicha,</hi> in it thou shalt not do any work. <hi>Deut.</hi> 5.13, 14.</p>
+               <p>Six days thou shalt work but on the Se<g ref="char:EOLhyphen"/>venth day thou shalt Rest: In caring time and in Harvest thou shalt Rest. <hi>Exod.</hi> 34.21.</p>
+               <p>For in six days <hi>Jehovah</hi> made Heaven and Earth, and on the Seventh day he Rested, and was Refreshed <hi>Exod.</hi> 31.17.</p>
+            </div>
+            <div n="2" type="part">
+               <head>The Second Part.</head>
+               <p>Relating to the due an Acceptable Observation, Celebration, and Sanctifi<g ref="char:EOLhyphen"/>cation, of the Seventh or last day of the week, in the weekly Revolutions of it as a weekly Sabbath day, according to Di<g ref="char:EOLhyphen"/>vine prescription in Obedience to the Lords commandment and for the Ob<g ref="char:EOLhyphen"/>taining and Enjoying the Promises of mercies, to Seventh-day-Sabbath Obser<g ref="char:EOLhyphen"/>vers.</p>
+               <pb n="32" facs="tcp:35207:19"/>
+               <p> Quest. 1. <hi>Whether a serious Commemorati<g ref="char:EOLhyphen"/>on and mindfulness of the Lords Holy Sab<g ref="char:EOLhyphen"/>bath, be required, as also a careful En<g ref="char:EOLhyphen"/>deavour, to Finish, and Accomplish, our lawfull employments as a preparation to the better Celebration of the Sabbath, hath been Recorded to be practised as An<g ref="char:EOLhyphen"/>tecedancous and preparatory to the Sab<g ref="char:EOLhyphen"/>bath of the Lord?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Remember the Sabbath day to keep it Holy <hi>Exod.</hi> 20.8.</p>
+               <p>And now when the Even was come, because it was the preparation that is the day before the Sabbath, <hi>Mark.</hi> 15.42.</p>
+               <p>
+                  <hi>Joseph</hi> of <hi>Aramathea</hi> craved the body of <hi>Je<g ref="char:EOLhyphen"/>sus.</hi> 4.3.</p>
+               <p>And that day was the preparation and the Sabbath drew on, <hi>Luke</hi> 23.54.</p>
+               <p>The <hi>Jews</hi> therefore because it was the pre<g ref="char:EOLhyphen"/>paration that the bodies should not remain up<g ref="char:EOLhyphen"/>on the Cross, on the Sabbath day— (—) be sought <hi>Pilate</hi> that — they might be taken a way. <hi>John.</hi> 19.31. <hi>Match.</hi> 27.92.</p>
+               <p>Quest. 2, <hi>What are the Duties Required
+<pb n="33" facs="tcp:35207:19"/>be discharged by those who upon Convict<g ref="char:EOLhyphen"/>ion of their Duty Herein, are desirous to Celebrate and keep Holy the Seventh or last day of the week as a weekly Sabbath day unto the Lord of Hosts in the Hebdo<g ref="char:EOLhyphen"/>madal or weekly Revolutions of it. Ac<g ref="char:EOLhyphen"/>cording to his own Appointment?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> Remember the Sabbath day to keep it Holy. <hi>Exod.</hi> 20.8.</p>
+               <p>On the Seventh day in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aring time, and in Harvest thou shalt R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st, <hi>Exod.</hi> 34.2 1</p>
+               <p>Abide ye every man in his place. let no man go out of his place <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Seventh day. <hi>Exod.</hi> 16.20.</p>
+               <p>So the people Rested on the Seventh day. <hi>ver.</hi> 30.</p>
+               <p>On the Seventh day there <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be to you an Holy day a Sabbath of <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. Exod.</hi> 35.2. <hi>Lev.</hi> 23.3</p>
+               <p>On the Seventh day is an Holy Convocation. <hi>Lev.</hi> 23.8 3.</p>
+               <p>And I Commanded the <hi>Levites</hi> that they should clense themselves, and keep the Gates, <hi>Nehem.</hi> 13 22.</p>
+               <p>I thou turn away thy foot from the Sabbath
+<pb n="43" facs="tcp:35207:20"/>
+                  <hi>&amp;c.</hi> And call the Sabbath a delight, the Ho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> Honourable, and shalt honour him <hi>Isa.</hi> 58.13.</p>
+               <p>On the Seventh day thou shalt Rest, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thine Ox and thine Asse ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Rest, and the S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of thine Handmaid, and the stranger may be Refreshed <hi>Exod.</hi> 23 12 <hi>Deut.</hi> 5.14.</p>
+               <p>A <hi>Psalm</hi> o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Song for the Sabbath day, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Title of <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.</p>
+               <p>And they <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and prepared <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Oyntment<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Rest<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Sabb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th day ac<g ref="char:EOLhyphen"/>cording to the Commandment <hi>Luke</hi> 23.50.</p>
+               <p>Quest 3. <hi>What were those Typical Shadow Offerings which Anciently or former were Required and Commanded as a par of the Dutyes of the Sabbath Observers to be Offered therein. The Antitype <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Substance whereof we are to Offer up <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a Sabbath, Oblation or burnt Offering?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> And thou shalt take fine Flow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and bake twelve Cakes thereof, two tenth dea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> shall be in one Cake. And thou shalt set the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in two Rows, six on a Row upon the Pure <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="35" facs="tcp:35207:20"/>before <hi>Jehovah.</hi> And thou shalt put pure Frankincense upon each Row, that it may be on the bread for a memorial, even an Offering made by fire unto <hi>Jehovah.</hi>
+               </p>
+               <p>Every Sabbath he shall set it in Order before <hi>Jehovah</hi> continually. <hi>L<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vit.</hi> 24.5, 6, 7, 8.</p>
+               <p>And on the Sabbath day two Lamb, of the first year without spo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. and two tenth deals of Flower, for a meat Offering mingled with <hi>Oyle,</hi> and the drink Offering thereof.</p>
+               <p>This is the Burnt Offering of every Sabbath, besides the continuall burnt Offering, and his Drink Offering. <hi>Numb.</hi> 28.9.10.</p>
+               <p>Quest. 4. <hi>In what way and manner was the Seventh or last day of the week Selevi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>zed, Celebrated, and kept Holy, as a weekly Sabbath day, by</hi> Moses <hi>and the</hi> Israelites, <hi>by Christ and his Apostles, in publick Conventions?</hi>
+               </p>
+               <p>This Question is Answered in the Answer to Question 10. <hi>p.</hi> 21. and 22.</p>
+               <p>Quest. 5. <hi>What Expressions and Actions are lawful and Allowable to be done and
+<pb n="36" facs="tcp:35207:21"/>performed, though upon the Sabbath day without offending of the Lord, as war<g ref="char:EOLhyphen"/>ranted, and prectised by Christ our be<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Pattern?</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> At that time Jesus went on the Sab<g ref="char:EOLhyphen"/>bath day through the corn, and his Disciples were an Hungred, and began to pluck the Ears of Corn and to eat. <hi>Math.</hi> 12.1. <hi>Mark.</hi> 2.23. <hi>Luke</hi> 6.1.</p>
+               <p>But when the <hi>Pharisees</hi> saw it, they said un<g ref="char:EOLhyphen"/>to him behold, they Disciples do that which is not lawful to do upon the Sabbath day. <hi>v.</hi> 2. <hi>Mark.</hi> 2.24. <hi>Luke</hi> 6.2.</p>
+               <p>But he said unto them, have ye not read what <hi>David</hi> did when he was an Hungred and they that were with him. <hi>ver.</hi> 3. <hi>Mark.</hi> 2.25 <hi>Luke.</hi> 6.3.</p>
+               <p>How he entred into the House of God, and did eat the sh<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w bread which was not lawful for him to eat, neither for them which were with him, but only for the Priests. <hi>ver.</hi> 4. <hi>Mat.</hi> 2.26. <hi>Luk.</hi> 6.4.</p>
+               <p>Or have ye not read in the Law, how that on the Sabbath day the Priests profane the Sab<g ref="char:EOLhyphen"/>bath and are blameless. <hi>ver.</hi> 5.</p>
+               <p>But if ye had known what this meaneth, I
+<pb n="37" facs="tcp:35207:21"/>will have mercy and not Sacrifice, ye would not have condemned the guiltless. <hi>verse.</hi> 7.</p>
+               <p>The Sabbath was made for man, and not man for the Sabbath. <hi>Mark.</hi> 2.27.</p>
+               <p>And b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hold there was a man which had his hand Withered and they asked him saying, is it lawful to heal on the Sabbath day. <hi>Luke</hi> 6.6, 7.</p>
+               <p>And he said unto them, what man shall there be among you that shall have one sheep, and if it fall into a pit on the Sabbath day, will he not lay hold on it and lift it out <hi>ver.</hi> 11.</p>
+               <p>How much then is a man better then a sheep? wherefore it is lawful to do well on the Sabbath day. <hi>ver.</hi> 12.</p>
+               <p>Then said he to the man, stretch forth thine hand, and he stretched it forth, and it was Re<g ref="char:EOLhyphen"/>stored whole like as the other. <hi>ver.</hi> 13. <hi>Luke</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.10.</p>
+               <p>He said to the Woman which had the Wi<g ref="char:EOLhyphen"/>thered hand, Rise up and stand forth in the midst, and the arose and stood forth. <hi>Luke</hi> 6.8.</p>
+               <p>Then said Jesus unto them, is it lawful on the Sabbath day to do good or to do evil? to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>velife or to destroy it? <hi>ver.</hi> 9.</p>
+               <p>And he was teaching in one of their Syna<g ref="char:EOLhyphen"/>gogues,
+<pb n="38" facs="tcp:35207:22"/>on the Sabbath, <hi>Luke</hi> 13.10.</p>
+               <p>And behold, there was a Woman which had a spirit of Infirmity eighteen years, <hi>&amp;c. v.</hi> 11.</p>
+               <p>And he laid his hands on her and immediate<g ref="char:EOLhyphen"/>ly she was made straight, and glorified God, <hi>v.</hi> 13.</p>
+               <p>Doth not each one of you on the Sabbath loose his Oxe or his Ass from the stall, and lead him away to watering <hi>v.</hi> 15.</p>
+               <p>And ought not this Woman whom Satan hath bound these eighteen years, be loosed from this bond on the Sabbath-day. <hi>v.</hi> 16.</p>
+               <p>And he went into the house of one of the Pharisees to eat bread on the Sabbath-day, <hi>Luke</hi> 14.1.</p>
+               <p>And-there-was-a-man-which had a Drop<g ref="char:EOLhyphen"/>sey, <hi>v.</hi> 2.</p>
+               <p>And Jesus answering, soake, Is it lawful to heal on the Sabbath day? <hi>v.</hi> 3.</p>
+               <p>And he took him, and healed him, and let him go, <hi>v.</hi> 4.</p>
+               <p>And answered them, saying, which of you shall have an Ass, or an Ox fallen into a Pit, and will not straightway pull him out on the Sabbath-day, <hi>v.</hi> 5.</p>
+               <p>And a certain man was there which had an Infirmity thirty eight years, <hi>John</hi> 5.5.</p>
+               <p>Jesus saith unto him, Rise, take up thy bed and walk, <hi>v.</hi> 8.</p>
+               <pb n="36" facs="tcp:35207:22"/>
+               <p> And imediately the man was made whose, and took up his bed and walked: and on the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame day was the Sabbath. <hi>v.</hi> 9.</p>
+               <p>
+                  <hi>Moses</hi> therefore gave unto you circumci<g ref="char:EOLhyphen"/>sion, (—) and ye on the Sabbath-day circum<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ise a man <hi>Iohn</hi> 7.22.</p>
+               <p>If a man on the Sabbath-day veceive Cir<g ref="char:EOLhyphen"/>cumcision, that the Law of <hi>Moses</hi> should not be broken are ye angry at me, because I have made a man every whit whose on the Sab<g ref="char:EOLhyphen"/>bath-day, <hi>v.</hi> 23.</p>
+               <p>And as Jesus pass<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e saw a man which was blind from his birth, <hi>John</hi> 9.1.</p>
+               <p>When he had thus spoken, he spat on the ground, and made say of the spittle, and he anointed the eyes of the blind man with the day, <hi>v.</hi> 6.</p>
+               <p>And said unto him, go wash in the <hi>Pool</hi> of <hi>
+                     <gap reason="illegible" resp="#keyers" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> he went his way therefore, and wash<g ref="char:EOLhyphen"/>ed, and came seeing, <hi>v.</hi> 7.</p>
+               <p>And it was the Abbath-day, when Jesus made the clay, and opened his eyes, <hi>v.</hi> 14.</p>
+               <p>And he reasoned in the Synagogue every Sabbath, <hi>Acts</hi> 18 4.</p>
+               <p>And on the Sabbath we went out of the City by a River-side, where Prayer was wont to be made, and we sate down and spake unto the women which resorted thither, <hi>Acts</hi> 16, 13.</p>
+               <pb n="40" facs="tcp:35207:23"/>
+               <p> Quest. 5. <hi>What Thoughts, Words and A<g ref="char:EOLhyphen"/>ctions are prohibited and forbidden, to be Agitated and Exerted in and upon the seventh-day-Sabbath, as a pollution and profanation of the Lords Holy Sab<g ref="char:EOLhyphen"/>bath.</hi>
+               </p>
+               <p>
+                  <hi>Answ.</hi> The seventh-day is the Sabbath, in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy man-servant, nor thy maid-servant, nor thy cattel, nor thy stranger that is within thy gates, <hi>Exod.</hi> 20.10 see the same <hi>Deut.</hi> 5.14.</p>
+               <p>Ye shall do no work therein, <hi>Lov.</hi> 23.3.</p>
+               <p>Ye shall do no servile work therein, <hi>v.</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+               <p>And if the People of the Land bring War<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> or any Victuals on the Sabbath-day to <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that we would not buy it of them on th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Sab<g ref="char:EOLhyphen"/>bath, <hi>Nehem.</hi> 10.31.</p>
+               <p>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>harged that they (<hi>viz.</hi> the Gates of <hi>J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>usalem</hi>) should not be opened till after <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sabbath, <hi>Nehem.</hi> 13. <hi>v.</hi> 19.</p>
+               <p>If thou turn away thy Foot from the Sab<g ref="char:EOLhyphen"/>bath, from doing thy pleasure on my holy day not doing thine own ways, nor finding this own pleasure, nor speaking thine own word <hi>Isa.</hi> 58.13.</p>
+               <pb n="41" facs="tcp:35207:23"/>
+               <p> Thus saith <hi>Jehovah,</hi> bear no burthen on the Sabbath-day, nor bring it in by the Gates of <hi>Je<g ref="char:EOLhyphen"/>rusalem, Jer.</hi> 17.21.</p>
+               <p>Neither carry forth a burthen out of you houses on the Sabbath-day, neither do you any work <hi>vers.</hi> 22.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:35207:24"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
